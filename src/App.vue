@@ -96,7 +96,7 @@
   <div class="q-pa-md">
     <div class="q-col-gutter-md row items-start">
       <div class="col-6">
-        <q-img src="DS5.jpg">
+        <q-img src="/DS5.jpg">
           <div class="absolute-bottom text-subtitle1 text-center">
             PLAYSTATION 5 CONTROLLER
           </div>
@@ -104,7 +104,7 @@
       </div>
 
       <div class="col-6">
-        <q-img src="ds4.jpg">
+        <q-img src="/ds4.jpg">
           <div class="absolute-bottom text-subtitle1 text-center">
             PLAYSTATION 4 CONTROLLER
           </div>
@@ -112,7 +112,7 @@
       </div>
 
       <div class="col-6">
-        <q-img src="XBOX.jpg">
+        <q-img src="/XBOX.jpg">
           <div class="absolute-bottom text-subtitle1 text-center">
             XBOX ONE CONTROLLER
           </div>
@@ -120,7 +120,7 @@
       </div>
 
       <div class="col-6">
-        <q-img src="nintendo.jpg">
+        <q-img src="/nintendo.jpg">
           <div class="absolute-bottom text-subtitle1 text-center">
             NINTENDO SWITCH CONTROLLER
           </div>
